@@ -21,22 +21,22 @@ The 6th evaluation campaign EVALITA 2018 will be held in Turin, as a co-located 
 EVALITA 2018 is organized along the following selected tasks, organized in four tracks:
 
 * Affect, Creativity and Style
-  ° [ABSITA](http://sag.art.uniroma2.it/absita/) - Aspect-based Sentiment Analysis (V. Basile, P. Basile, D. Croce, M. Polignano)
-  ° [ITAMoji](https://sites.google.com/view/itamoji/) - Italian Emoji Prediction (F. Barbieri, F. Ronzano, F. Chiusaroli, E.W. Pamungkas, V. Patti)
-  ° [IronITA](http://di.unito.it/ironita18) - Irony Detection in Twitter (A. Cignarella, S. Frenda, C. Bosco, V. Patti, P. Rosso)
-  ° [GxG](https://sites.google.com/view/gxg2018) - Cross-Genre Gender Prediction (F. Dell'Orletta, M. Nissim)
+  * [ABSITA](http://sag.art.uniroma2.it/absita/) - Aspect-based Sentiment Analysis (V. Basile, P. Basile, D. Croce, M. Polignano)
+  * [ITAMoji](https://sites.google.com/view/itamoji/) - Italian Emoji Prediction (F. Barbieri, F. Ronzano, F. Chiusaroli, E.W. Pamungkas, V. Patti)
+  * [IronITA](http://di.unito.it/ironita18) - Irony Detection in Twitter (A. Cignarella, S. Frenda, C. Bosco, V. Patti, P. Rosso)
+  * [GxG](https://sites.google.com/view/gxg2018) - Cross-Genre Gender Prediction (F. Dell'Orletta, M. Nissim)
         
 * Dialogue Systems
-  ° [iLISTEN](https://ilisten2018.github.io/) - itaLIan Speech acT labEliNg (N. Novielli, P. Basile)
-  ° [IDIAL](https://sites.google.com/view/idial/) - Italian DIALogue systems evaluation (F. Cutugno, A. Origlia, M. di Maro, C. Tortora, B. Magnini, M. Guerini, S. Falcone)
+  * [iLISTEN](https://ilisten2018.github.io/) - itaLIan Speech acT labEliNg (N. Novielli, P. Basile)
+  * [IDIAL](https://sites.google.com/view/idial/) - Italian DIALogue systems evaluation (F. Cutugno, A. Origlia, M. di Maro, C. Tortora, B. Magnini, M. Guerini, S. Falcone)
 
 * Hate Speech
-  ° [AMI](https://amievalita2018.wordpress.com/) - Automatic Misogyny Identification (M. Anzovino, E. Fersini, P. Rosso)
-  ° [HaSpeeDe](http://di.unito.it/haspeedeevalita18) - Hate Speech Detection (C. Bosco, F. Dell'Orletta, M. Sanguinetti, F. Poletto,  M. Stranisci, M. Tesconi)
+  * [AMI](https://amievalita2018.wordpress.com/) - Automatic Misogyny Identification (M. Anzovino, E. Fersini, P. Rosso)
+  * [HaSpeeDe](http://di.unito.it/haspeedeevalita18) - Hate Speech Detection (C. Bosco, F. Dell'Orletta, M. Sanguinetti, F. Poletto,  M. Stranisci, M. Tesconi)
   
 * Semantics4AI
-  ° [NLP4FUN](https://nlp4fun.github.io/) - Solving language games (P. Basile. M. de Gemmis, G. Semeraro, L. Siciliani)
-  ° [SUGAR](https://sites.google.com/view/sugar-evalita/) - Spoken Utterances Guiding chef’s Assistant Robots (F. Cutugno, M. Di Maro, A. Origlia, C. Tortora)
+  * [NLP4FUN](https://nlp4fun.github.io/) - Solving language games (P. Basile. M. de Gemmis, G. Semeraro, L. Siciliani)
+  * [SUGAR](https://sites.google.com/view/sugar-evalita/) - Spoken Utterances Guiding chef’s Assistant Robots (F. Cutugno, M. Di Maro, A. Origlia, C. Tortora)
   
 DATA
 =======
