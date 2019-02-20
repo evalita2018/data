@@ -38,10 +38,6 @@ EVALITA 2018 is organized along the following selected tasks, organized in four 
   * [NLP4FUN](https://nlp4fun.github.io/) - Solving language games (P. Basile. M. de Gemmis, G. Semeraro, L. Siciliani)
   * [SUGAR](https://sites.google.com/view/sugar-evalita/) - Spoken Utterances Guiding chef’s Assistant Robots (F. Cutugno, M. Di Maro, A. Origlia, C. Tortora)
   
-DATA
-=======
-
-Data repository structure: TBA
 
 
 LICENSE
