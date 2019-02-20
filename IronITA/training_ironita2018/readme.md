@@ -1,9 +1,9 @@
 ********************************************************************************************
-* ironITA / Irony Detection in Italian Tweets @ EVALITA 2018 Training Data
+ironITA / Irony Detection in Italian Tweets @ EVALITA 2018 Training Data
 
-* http://di.unito.it/ironita18
+http://di.unito.it/ironita18
 
-* Task organizers
+# Task organizers
 * Simona Frenda, University of Turin, Turin, Italy [primary contact]
 * Alessandra T. Cignarella, University of Turin, Turin, Italy [primary contact]
 * Valerio Basile, University of Turin, Turin, Italy
